@@ -1,3 +1,3 @@
 # CopyAppPractice
 연습
-즐겁다
+재밌다
