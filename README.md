@@ -1,3 +1,3 @@
 # CopyAppPractice
 연습
-재밌다
+하나도 모르겠다
